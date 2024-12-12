@@ -1,6 +1,7 @@
 public class scratchtovscodepull {
-    public static void testemethod(){
+    public static void testmethod(){
         
+
         
     }
 
